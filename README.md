@@ -36,7 +36,5 @@ The goal: uncover actionable insights on content trends, genre popularity, regio
 - **Visualization:** `matplotlib`, `seaborn`, Power BI
 - **Jupyter/Colab:** Exploratory coding and prototyping
 
----
 
-## 📁 Project Structure
 

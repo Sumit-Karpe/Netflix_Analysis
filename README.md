@@ -28,9 +28,6 @@ The goal: uncover actionable insights on content trends, genre popularity, regio
 - Country-wise content mapping (choropleth maps, heatmaps)
 - Genre & country cross-analysis
 
-View interactive dashboards:  
-[Power BI Report (if published)](https://app.powerbi.com/groups/me/reports/your-powerbi-link)
-
 ---
 
 ## 🛠️ Tools & Technologies
